@@ -45,7 +45,8 @@
         ```
 
 ## OUTPUT
-![Web output Screen shot](https://user-images.githubusercontent.com/127816342/229371070-9528fe17-6cee-477c-8721-b2503e53e2e2.png)
+![Web output Screen shot](https://user-images.githubusercontent.com/127816342/229371348-4780f20b-8fda-4f12-8702-e3a09eed4def.png)
+
 
 
 
