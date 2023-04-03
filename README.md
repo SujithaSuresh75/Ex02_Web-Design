@@ -45,7 +45,8 @@
         ```
 
 ## OUTPUT
-![Sujitha S web 2 (2)](https://user-images.githubusercontent.com/127816342/229495276-06905068-f2f8-4181-a638-410edc80ce4c.png)
+
+![Assignment 2 Web (Sujitha)](https://user-images.githubusercontent.com/127816342/229495421-921f9fd3-1513-40e2-8d8b-cbe3b152b06f.png)
 
 
 
