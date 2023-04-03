@@ -23,7 +23,7 @@
 <head>
     <title> Saveetha Engineering College </title>
     <body bgcolor="Cyan" text ="black"></body>
-    <h1 text align="right">Saveetha Engineering College</h1>
+    <h1 text align="center">Saveetha Engineering College</h1>
     <hr bold border="px" color="red">
     <h2><ol type="A">
         <li>Agricultural Engineering</li>
@@ -45,7 +45,8 @@
         ```
 
 ## OUTPUT
-![Web output Screen shot](https://user-images.githubusercontent.com/127816342/229371348-4780f20b-8fda-4f12-8702-e3a09eed4def.png)
+![Web output Screen shot](https://user-images.githubusercontent.com/127816342/229495046-9530d006-969f-4184-a6e2-3b027eb0b6cb.png)
+
 
 
 
